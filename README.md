@@ -26,5 +26,5 @@
 
 ## Sensitivity Analyses
 
-&nbsp;&nbsp;&nbsp; Here are the sensitivity analyses
+&nbsp;&nbsp;&nbsp; [Here] (https://github.com/biancamanago/ncas_2022_SH_ReplicationFiles/blob/88cf6df6b48c7a1409446268d40fc9e0c3089989/ctp_SupplementalC-2021-12-22.pdf) are the sensitivity analyses
 
