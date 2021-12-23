@@ -20,7 +20,7 @@
 <hr/> 
 
 ## Study Replication Files
-&nbsp;&nbsp;&nbsp; Here are the files that detail question wording
+&nbsp;&nbsp;&nbsp; [Here](https://github.com/biancamanago/ncas_2022_SH_ReplicationFiles/blob/5c605f2943289622051a7b4f2a4f5804426aca08/ctp_SupplementalB-2021-12-22.pdf) are the files that detail question wording
 
 <hr/> 
 
