@@ -4,7 +4,7 @@
 <br>
 <br>
 <font size="7">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manago, Bianca and Anne Krendl. Forth. "Cultivating Contact: How Social Norms <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Can Reduce Mental Illness Stigma in College Populations." <i>Social Science Research</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Manago, Bianca and Anne Krendl. Forth. "Cultivating Contact: How Social Norms Can Reduce Mental Illness Stigma <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  in College Populations." <i>Stigma and Health</i>
 </font>
 <br>
 <br>
