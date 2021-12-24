@@ -18,8 +18,6 @@
 
 &nbsp;&nbsp;&nbsp; At this time, the data is proprietary so we are unable to provide code and data files.
 
-&nbsp;&nbsp;&nbsp; 
-
 <hr/> 
 
 ## Study Replication Files
