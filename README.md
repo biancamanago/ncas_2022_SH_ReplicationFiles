@@ -16,7 +16,7 @@
 ## Data Cleaning Appendix
 &nbsp;&nbsp;&nbsp; [Here](https://github.com/biancamanago/ncas_2022_SH_ReplicationFiles/blob/a170977a9d57168a33acf3c418f3f65bffa3d4db/ctp_SupplementalA-2021-12-22.pdf) are the procedures used to prepare data for analysis.
 
-At this time, the data is proprietary so we are unable to provide code and data files.
+&nbsp;&nbsp;&nbsp; At this time, the data is proprietary so we are unable to provide code and data files.
 
 &nbsp;&nbsp;&nbsp; 
 
@@ -31,5 +31,5 @@ At this time, the data is proprietary so we are unable to provide code and data 
 
 &nbsp;&nbsp;&nbsp; [Here](https://github.com/biancamanago/ncas_2022_SH_ReplicationFiles/blob/88cf6df6b48c7a1409446268d40fc9e0c3089989/ctp_SupplementalC-2021-12-22.pdf) are the sensitivity analyses.
 
-At this time, the data is proprietary so we are unable to provide code and data files.
+&nbsp;&nbsp;&nbsp; At this time, the data is proprietary so we are unable to provide code and data files.
 
